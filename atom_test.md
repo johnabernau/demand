@@ -30,6 +30,4 @@ A bunch of text here. Function just like a just like a table. Ok now I'm writing
 
 #### 2.2 Religious Economy and ABM
 
-### 3. Historical Background
-
 ### 4. Methods
